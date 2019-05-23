@@ -29,7 +29,7 @@ app.use('/auth',authRoutes);
 app.use('/profile',profileroutes);
 
 app.get('/',(req,res)=>{
-    console.log(`Home Page...`);
+    console.log(`Home Page in gmail OAuth...`);
     res.render('home',{ user: req.user });
 });
 app.listen(port,()=>{
