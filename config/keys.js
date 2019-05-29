@@ -1,12 +1,12 @@
 module.exports={
     google:{
-        clientID:'743763470098-8d4ilb2d0c9fntbht3433jjtkstf2gur.apps.googleusercontent.com',
-        clientSecret:'9bFzi__NdV3njGdJg80P1cKR'
+        clientID:'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+        clientSecret:'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     },
     mongodb:{
-        dbURI:'mongodb://vignesh-mack:hellomack1@ds247270.mlab.com:47270/passport-oauth-test'
+        dbURI:'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
     },
     session:{
-        cookiekey:'vigneshnodeiloveyoumongodbreactjs'
+        cookiekey:'xxxxxxxxxxxxxxxxxxxxxxxxxx'
     }
 }
